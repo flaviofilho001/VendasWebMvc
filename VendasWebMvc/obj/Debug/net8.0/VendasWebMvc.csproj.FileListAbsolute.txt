@@ -252,3 +252,4 @@ C:\Users\ALESF\Desktop\FlavioF\C#\VendasWebMvc\VendasWebMvc\obj\Debug\net8.0\Ven
 C:\Users\ALESF\Desktop\FlavioF\C#\VendasWebMvc\VendasWebMvc\obj\Debug\net8.0\ref\VendasWebMvc.dll
 C:\Users\ALESF\Desktop\FlavioF\C#\VendasWebMvc\VendasWebMvc\bin\Debug\net8.0\MySqlConnector.dll
 C:\Users\ALESF\Desktop\FlavioF\C#\VendasWebMvc\VendasWebMvc\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\ALESF\Desktop\FlavioF\C#\VendasWebMvc\VendasWebMvc\obj\Debug\net8.0\VendasWebMvc.sourcelink.json

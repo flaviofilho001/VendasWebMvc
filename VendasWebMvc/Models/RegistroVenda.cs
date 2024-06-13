@@ -1,6 +1,6 @@
 ﻿using VendasWebMvc.Models.Enums;
 
-namespace VendasWeb.Models
+namespace VendasWebMvc.Models
 {
     public class RegistroVenda
     {
@@ -8,5 +8,17 @@ namespace VendasWeb.Models
         public DateTime Data { get; set; }
         public decimal Valor { get; set; }
         public EStatusVendas Status { get; set; }
+        public Vendedor Vendedor { get; set; }
+
+        public RegistroVenda() { }
+
+        public RegistroVenda(int id, DateTime data, decimal valor, EStatusVendas status, Vendedor vendedor)
+        {
+            Id = id;
+            Data = data;
+            Valor = valor;
+            Status = status;
+            Vendedor = vendedor;
+        }
     }
 }
