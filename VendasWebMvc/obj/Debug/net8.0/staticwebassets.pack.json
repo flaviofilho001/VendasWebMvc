@@ -53,6 +53,10 @@
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
+      "Id": "C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\VendasWebMvc\\VendasWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-morphy.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-morphy.css"
+    },
+    {
       "Id": "C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\VendasWebMvc\\VendasWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },

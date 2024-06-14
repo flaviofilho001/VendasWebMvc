@@ -1,17 +1,23 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using VendasWebMvc.Data;
+using VendasWebMvc.Services;
 
 namespace VendasWebMvc.Controllers
 {
     public class VendedoresController : Controller
     {
-        private readonly VendasWebMvcContext _context;
+        private readonly VendedorService _vendedorService;
 
-        public VendedoresController(VendasWebMvcContext context)
+        public VendedoresController(VendedorService vendedorService)
         {
-            _context = context;
+            _vendedorService = vendedorService;
         }
         public IActionResult Index()
+        {
+            var list = _vendedorService.FindAll();
+            return View(list);
+        }
+        public IActionResult Create()
         {
             return View();
         }
