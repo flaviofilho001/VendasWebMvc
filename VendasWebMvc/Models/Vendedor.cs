@@ -8,6 +8,7 @@ public class Vendedor
     public DateTime DataNascimento { get; set; }
     public decimal SalarioBase { get; set; }
     public Departamento Departamento { get; set; }
+    public int DepartamentoId { get; set; }
     public ICollection<RegistroVenda> Vendas { get; set; } = new List<RegistroVenda>();
 
     public Vendedor()

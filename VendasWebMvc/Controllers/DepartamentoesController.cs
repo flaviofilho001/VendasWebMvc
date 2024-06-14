@@ -58,6 +58,7 @@ namespace VendasWebMvc.Controllers
         {
             if (ModelState.IsValid)
             {
+                
                 _context.Add(departamento);
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));

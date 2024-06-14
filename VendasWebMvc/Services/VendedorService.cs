@@ -15,5 +15,11 @@ namespace VendasWebMvc.Services
         {
             return _context.Vendedor.ToList();
         }
+        public void Insert(Vendedor v)
+        {
+            v.Departamento = _context.Departamento.First();
+            _context.Add(v);
+            _context.SaveChanges();
+        }
     }
 }

@@ -1,4 +1,5 @@
 ﻿@model VendasWebMvc.Models.Vendedor
+@model VendasWebMvc.Models.Departamento
 
 @{
     ViewData["Title"] = "Criar Vendedor";
@@ -25,6 +26,10 @@
             <div class="mb-3">
                 <label asp-for="SalarioBase" class="form-label"></label>
                 <input asp-for="SalarioBase" class="form-control" />
+            </div>
+            <div class="mb-3">
+                <label asp-for="DepartamentoId" class="form-label"></label>
+                <input asp-for="DepartamentoId" class="form-control" />
             </div>
             <div class="mb-3">
                 <input type="submit" value="Create" class="btn" />
