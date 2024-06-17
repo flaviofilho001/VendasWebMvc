@@ -9,6 +9,7 @@ string? connectionString = builder.Configuration.GetConnectionString("VendasWebM
 builder.Services.AddDbContext<VendasWebMvcContext>(options => options.UseMySql(connectionString, ServerVersion.AutoDetect(connectionString)));
 
 builder.Services.AddScoped<VendedorService>();
+builder.Services.AddScoped<DepartamentoService>();
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 

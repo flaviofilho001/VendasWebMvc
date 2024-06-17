@@ -1,5 +1,4 @@
-﻿@model VendasWebMvc.Models.Vendedor
-@model VendasWebMvc.Models.Departamento
+﻿@model VendasWebMvc.Models.ViewModels.VendedorFormViewModel
 
 @{
     ViewData["Title"] = "Criar Vendedor";
@@ -12,24 +11,24 @@
     <div class="col-md-4">
         <form asp-action="Create">
             <div class="mb-3">
-                <label asp-for="Nome" class="form-label"></label>
-                <input asp-for="Nome" class="form-control"/>
+                <label asp-for="Vendedor.Nome" class="form-label"></label>
+                <input asp-for="Vendedor.Nome" class="form-control"/>
             </div>
             <div class="mb-3">
-                <label asp-for="Email" class="form-label"></label>
-                <input asp-for="Email" class="form-control" />
+                <label asp-for="Vendedor.Email" class="form-label"></label>
+                <input asp-for="Vendedor.Email" class="form-control" />
             </div>
             <div class="mb-3">
-                <label asp-for="DataNascimento" class="form-label"></label>
-                <input asp-for="DataNascimento" class="form-control" />
+                <label asp-for="Vendedor.DataNascimento" class="form-label"></label>
+                <input asp-for="Vendedor.DataNascimento" class="form-control" />
             </div>
             <div class="mb-3">
-                <label asp-for="SalarioBase" class="form-label"></label>
-                <input asp-for="SalarioBase" class="form-control" />
+                <label asp-for="Vendedor.SalarioBase" class="form-label"></label>
+                <input asp-for="Vendedor.SalarioBase" class="form-control" />
             </div>
             <div class="mb-3">
-                <label asp-for="DepartamentoId" class="form-label"></label>
-                <input asp-for="DepartamentoId" class="form-control" />
+                <label asp-for="Vendedor.DepartamentoId" class="form-label"></label>
+                <select asp-for="Vendedor.DepartamentoId" asp-items="@(new SelectList(Model.Departamentoes,"Id","Nome"))" class="form-control"></select>
             </div>
             <div class="mb-3">
                 <input type="submit" value="Create" class="btn" />
