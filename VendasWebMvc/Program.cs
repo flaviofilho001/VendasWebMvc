@@ -2,6 +2,8 @@
 using Microsoft.Extensions.DependencyInjection;
 using VendasWebMvc.Data;
 using VendasWebMvc.Services;
+using System.Globalization;
+using Microsoft.AspNetCore.Localization;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -10,10 +12,22 @@ builder.Services.AddDbContext<VendasWebMvcContext>(options => options.UseMySql(c
 
 builder.Services.AddScoped<VendedorService>();
 builder.Services.AddScoped<DepartamentoService>();
+
+
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 
 var app = builder.Build();
+
+var lingua = new CultureInfo("pt-BR");
+var localizationOptions = new RequestLocalizationOptions
+{
+    DefaultRequestCulture = new RequestCulture(lingua),
+    SupportedCultures = new List<CultureInfo> { lingua },
+    SupportedUICultures = new List<CultureInfo> { lingua }
+};
+
+app.UseRequestLocalization(localizationOptions);
 
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())
