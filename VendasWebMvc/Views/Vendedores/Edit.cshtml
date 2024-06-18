@@ -1,5 +1,39 @@
-﻿@*
-    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
-*@
+﻿@model VendasWebMvc.Models.ViewModels.VendedorFormViewModel
+
 @{
+    ViewData["Title"] = "Edit";
 }
+
+<h1>Editar</h1>
+
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <input type="hidden" asp-for="Vendedor.Id"/>
+            <div class="mb-3">
+                <label asp-for="Vendedor.Nome" class="form-label"></label>
+                <input asp-for="Vendedor.Nome" class="form-control" />
+            </div>
+            <div class="mb-3">
+                <label asp-for="Vendedor.Email" class="form-label"></label>
+                <input asp-for="Vendedor.Email" class="form-control" />
+            </div>
+            <div class="mb-3">
+                <label asp-for="Vendedor.DataNascimento" class="form-label"></label>
+                <input asp-for="Vendedor.DataNascimento" class="form-control" />
+            </div>
+            <div class="mb-3">
+                <label asp-for="Vendedor.SalarioBase" class="form-label"></label>
+                <input asp-for="Vendedor.SalarioBase" class="form-control" />
+            </div>
+            <div class="mb-3">
+                <label asp-for="Vendedor.DepartamentoId" class="form-label"></label>
+                <select asp-for="Vendedor.DepartamentoId" asp-items="@(new SelectList(Model.Departamentoes,"Id","Nome"))" class="form-control"></select>
+            </div>
+            <div class="mb-3">
+                <input type="submit" value="Save" class="btn" />
+            </div>
+        </form>
+    </div>
+</div>

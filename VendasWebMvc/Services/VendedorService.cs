@@ -1,6 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using VendasWebMvc.Data;
 using VendasWebMvc.Models;
+using VendasWebMvc.Services.Exceptions;
 
 namespace VendasWebMvc.Services
 {
@@ -31,6 +32,22 @@ namespace VendasWebMvc.Services
             var obj = _context.Vendedor.Find(id);
             _context.Vendedor.Remove(obj);
             _context.SaveChanges();
+        }
+
+        public void Update(Vendedor obj) 
+        { if(!_context.Vendedor.Any(x => x.Id == obj.Id)) 
+            {
+                throw new NotFoundException("Id não encontrado"); 
+            }
+            try
+            {
+                _context.Update(obj);
+                _context.SaveChanges();
+            }
+            catch (DbConcurrencyException e) 
+            {
+                throw new DbConcurrencyException(e.Message);
+            }
         }
     }
 }
