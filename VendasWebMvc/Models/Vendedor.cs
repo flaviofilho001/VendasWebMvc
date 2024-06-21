@@ -5,12 +5,18 @@ namespace VendasWebMvc.Models;
 public class Vendedor
 {
     public int Id { get; set; }
+    [Required(ErrorMessage ="{0} é requerido")]
+    [StringLength(100, MinimumLength = 2, ErrorMessage = "{0} não é possível, insira um nome entre {2} e {1} caracteres")]
     public string Nome { get; set; }
+    [Required(ErrorMessage = "{0} é requerido")]
     [DataType(DataType.EmailAddress)]
     public string Email { get; set; }
+    [Required(ErrorMessage = "{0} é requerido")]
     [Display(Name = "Data de Nascimento")]
     [DataType(DataType.Date)]
     public DateTime DataNascimento { get; set; }
+    [Required(ErrorMessage = "{0} é requerido")]
+    [Range(100, 50000, ErrorMessage = "{0} não é possível, insira um entre {1} e {2}")]
     [Display(Name = "Salário Base")]
     [DisplayFormat(DataFormatString ="{0:F2}")]
     public decimal SalarioBase { get; set; }
