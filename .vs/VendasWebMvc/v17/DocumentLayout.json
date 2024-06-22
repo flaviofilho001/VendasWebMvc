@@ -3,8 +3,56 @@
   "WorkspaceRootPath": "C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\VendasWebMvc\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ADCE54DB-8B91-4727-866C-060724C9393C}|VendasWebMvc\\VendasWebMvc.csproj|C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\VendasWebMvc\\vendaswebmvc\\controllers\\vendedorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ADCE54DB-8B91-4727-866C-060724C9393C}|VendasWebMvc\\VendasWebMvc.csproj|c:\\users\\alesf\\desktop\\flaviof\\c#\\vendaswebmvc\\vendaswebmvc\\views\\registrovendas\\groupingsearch.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ADCE54DB-8B91-4727-866C-060724C9393C}|VendasWebMvc\\VendasWebMvc.csproj|solutionrelative:vendaswebmvc\\views\\registrovendas\\groupingsearch.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADCE54DB-8B91-4727-866C-060724C9393C}|VendasWebMvc\\VendasWebMvc.csproj|c:\\users\\alesf\\desktop\\flaviof\\c#\\vendaswebmvc\\vendaswebmvc\\views\\registrovendas\\simplesearch.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ADCE54DB-8B91-4727-866C-060724C9393C}|VendasWebMvc\\VendasWebMvc.csproj|solutionrelative:vendaswebmvc\\views\\registrovendas\\simplesearch.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADCE54DB-8B91-4727-866C-060724C9393C}|VendasWebMvc\\VendasWebMvc.csproj|c:\\users\\alesf\\desktop\\flaviof\\c#\\vendaswebmvc\\vendaswebmvc\\views\\registrovendas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ADCE54DB-8B91-4727-866C-060724C9393C}|VendasWebMvc\\VendasWebMvc.csproj|solutionrelative:vendaswebmvc\\views\\registrovendas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADCE54DB-8B91-4727-866C-060724C9393C}|VendasWebMvc\\VendasWebMvc.csproj|C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\VendasWebMvc\\vendaswebmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ADCE54DB-8B91-4727-866C-060724C9393C}|VendasWebMvc\\VendasWebMvc.csproj|solutionrelative:vendaswebmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADCE54DB-8B91-4727-866C-060724C9393C}|VendasWebMvc\\VendasWebMvc.csproj|c:\\users\\alesf\\desktop\\flaviof\\c#\\vendaswebmvc\\vendaswebmvc\\controllers\\registrovendascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADCE54DB-8B91-4727-866C-060724C9393C}|VendasWebMvc\\VendasWebMvc.csproj|solutionrelative:vendaswebmvc\\controllers\\registrovendascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADCE54DB-8B91-4727-866C-060724C9393C}|VendasWebMvc\\VendasWebMvc.csproj|C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\VendasWebMvc\\vendaswebmvc\\models\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADCE54DB-8B91-4727-866C-060724C9393C}|VendasWebMvc\\VendasWebMvc.csproj|solutionrelative:vendaswebmvc\\models\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADCE54DB-8B91-4727-866C-060724C9393C}|VendasWebMvc\\VendasWebMvc.csproj|c:\\users\\alesf\\desktop\\flaviof\\c#\\vendaswebmvc\\vendaswebmvc\\models\\registrovenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADCE54DB-8B91-4727-866C-060724C9393C}|VendasWebMvc\\VendasWebMvc.csproj|solutionrelative:vendaswebmvc\\models\\registrovenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADCE54DB-8B91-4727-866C-060724C9393C}|VendasWebMvc\\VendasWebMvc.csproj|c:\\users\\alesf\\desktop\\flaviof\\c#\\vendaswebmvc\\vendaswebmvc\\controllers\\vendedorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ADCE54DB-8B91-4727-866C-060724C9393C}|VendasWebMvc\\VendasWebMvc.csproj|solutionrelative:vendaswebmvc\\controllers\\vendedorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADCE54DB-8B91-4727-866C-060724C9393C}|VendasWebMvc\\VendasWebMvc.csproj|C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\VendasWebMvc\\vendaswebmvc\\services\\vendedorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADCE54DB-8B91-4727-866C-060724C9393C}|VendasWebMvc\\VendasWebMvc.csproj|solutionrelative:vendaswebmvc\\services\\vendedorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADCE54DB-8B91-4727-866C-060724C9393C}|VendasWebMvc\\VendasWebMvc.csproj|c:\\users\\alesf\\desktop\\flaviof\\c#\\vendaswebmvc\\vendaswebmvc\\services\\exceptions\\integrityexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADCE54DB-8B91-4727-866C-060724C9393C}|VendasWebMvc\\VendasWebMvc.csproj|solutionrelative:vendaswebmvc\\services\\exceptions\\integrityexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADCE54DB-8B91-4727-866C-060724C9393C}|VendasWebMvc\\VendasWebMvc.csproj|C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\VendasWebMvc\\vendaswebmvc\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ADCE54DB-8B91-4727-866C-060724C9393C}|VendasWebMvc\\VendasWebMvc.csproj|solutionrelative:vendaswebmvc\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADCE54DB-8B91-4727-866C-060724C9393C}|VendasWebMvc\\VendasWebMvc.csproj|C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\VendasWebMvc\\vendaswebmvc\\views\\vendedores\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ADCE54DB-8B91-4727-866C-060724C9393C}|VendasWebMvc\\VendasWebMvc.csproj|solutionrelative:vendaswebmvc\\views\\vendedores\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADCE54DB-8B91-4727-866C-060724C9393C}|VendasWebMvc\\VendasWebMvc.csproj|C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\VendasWebMvc\\vendaswebmvc\\services\\departamentoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADCE54DB-8B91-4727-866C-060724C9393C}|VendasWebMvc\\VendasWebMvc.csproj|solutionrelative:vendaswebmvc\\services\\departamentoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ADCE54DB-8B91-4727-866C-060724C9393C}|VendasWebMvc\\VendasWebMvc.csproj|C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\VendasWebMvc\\vendaswebmvc\\views\\vendedores\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -15,24 +63,16 @@
       "RelativeMoniker": "D:0:0:{ADCE54DB-8B91-4727-866C-060724C9393C}|VendasWebMvc\\VendasWebMvc.csproj|solutionrelative:vendaswebmvc\\views\\vendedores\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ADCE54DB-8B91-4727-866C-060724C9393C}|VendasWebMvc\\VendasWebMvc.csproj|C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\VendasWebMvc\\vendaswebmvc\\views\\vendedores\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{ADCE54DB-8B91-4727-866C-060724C9393C}|VendasWebMvc\\VendasWebMvc.csproj|solutionrelative:vendaswebmvc\\views\\vendedores\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{ADCE54DB-8B91-4727-866C-060724C9393C}|VendasWebMvc\\VendasWebMvc.csproj|C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\VendasWebMvc\\vendaswebmvc\\views\\departamentoes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{ADCE54DB-8B91-4727-866C-060724C9393C}|VendasWebMvc\\VendasWebMvc.csproj|solutionrelative:vendaswebmvc\\views\\departamentoes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ADCE54DB-8B91-4727-866C-060724C9393C}|VendasWebMvc\\VendasWebMvc.csproj|c:\\users\\alesf\\desktop\\flaviof\\c#\\vendaswebmvc\\vendaswebmvc\\models\\vendedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ADCE54DB-8B91-4727-866C-060724C9393C}|VendasWebMvc\\VendasWebMvc.csproj|C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\VendasWebMvc\\vendaswebmvc\\models\\vendedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ADCE54DB-8B91-4727-866C-060724C9393C}|VendasWebMvc\\VendasWebMvc.csproj|solutionrelative:vendaswebmvc\\models\\vendedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ADCE54DB-8B91-4727-866C-060724C9393C}|VendasWebMvc\\VendasWebMvc.csproj|C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\VendasWebMvc\\vendaswebmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ADCE54DB-8B91-4727-866C-060724C9393C}|VendasWebMvc\\VendasWebMvc.csproj|solutionrelative:vendaswebmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ADCE54DB-8B91-4727-866C-060724C9393C}|VendasWebMvc\\VendasWebMvc.csproj|C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\VendasWebMvc\\vendaswebmvc\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{ADCE54DB-8B91-4727-866C-060724C9393C}|VendasWebMvc\\VendasWebMvc.csproj|solutionrelative:vendaswebmvc\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ADCE54DB-8B91-4727-866C-060724C9393C}|VendasWebMvc\\VendasWebMvc.csproj|C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\VendasWebMvc\\vendaswebmvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -41,10 +81,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{ADCE54DB-8B91-4727-866C-060724C9393C}|VendasWebMvc\\VendasWebMvc.csproj|C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\VendasWebMvc\\vendaswebmvc\\views\\vendedores\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{ADCE54DB-8B91-4727-866C-060724C9393C}|VendasWebMvc\\VendasWebMvc.csproj|solutionrelative:vendaswebmvc\\views\\vendedores\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ADCE54DB-8B91-4727-866C-060724C9393C}|VendasWebMvc\\VendasWebMvc.csproj|C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\VendasWebMvc\\vendaswebmvc\\services\\vendedorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ADCE54DB-8B91-4727-866C-060724C9393C}|VendasWebMvc\\VendasWebMvc.csproj|solutionrelative:vendaswebmvc\\services\\vendedorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ADCE54DB-8B91-4727-866C-060724C9393C}|VendasWebMvc\\VendasWebMvc.csproj|C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\VendasWebMvc\\vendaswebmvc\\services\\exceptions\\dbconcurrencyexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -67,10 +103,6 @@
       "RelativeMoniker": "D:0:0:{ADCE54DB-8B91-4727-866C-060724C9393C}|VendasWebMvc\\VendasWebMvc.csproj|solutionrelative:vendaswebmvc\\models\\viewmodels\\vendedorformviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ADCE54DB-8B91-4727-866C-060724C9393C}|VendasWebMvc\\VendasWebMvc.csproj|C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\VendasWebMvc\\vendaswebmvc\\services\\departamentoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ADCE54DB-8B91-4727-866C-060724C9393C}|VendasWebMvc\\VendasWebMvc.csproj|solutionrelative:vendaswebmvc\\services\\departamentoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{ADCE54DB-8B91-4727-866C-060724C9393C}|VendasWebMvc\\VendasWebMvc.csproj|C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\VendasWebMvc\\vendaswebmvc\\controllers\\departamentoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ADCE54DB-8B91-4727-866C-060724C9393C}|VendasWebMvc\\VendasWebMvc.csproj|solutionrelative:vendaswebmvc\\controllers\\departamentoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -91,14 +123,6 @@
       "RelativeMoniker": "D:0:0:{ADCE54DB-8B91-4727-866C-060724C9393C}|VendasWebMvc\\VendasWebMvc.csproj|solutionrelative:vendaswebmvc\\data\\vendaswebmvccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ADCE54DB-8B91-4727-866C-060724C9393C}|VendasWebMvc\\VendasWebMvc.csproj|C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\VendasWebMvc\\vendaswebmvc\\models\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ADCE54DB-8B91-4727-866C-060724C9393C}|VendasWebMvc\\VendasWebMvc.csproj|solutionrelative:vendaswebmvc\\models\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ADCE54DB-8B91-4727-866C-060724C9393C}|VendasWebMvc\\VendasWebMvc.csproj|C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\VendasWebMvc\\vendaswebmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{ADCE54DB-8B91-4727-866C-060724C9393C}|VendasWebMvc\\VendasWebMvc.csproj|solutionrelative:vendaswebmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{ADCE54DB-8B91-4727-866C-060724C9393C}|VendasWebMvc\\VendasWebMvc.csproj|C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\VendasWebMvc\\vendaswebmvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{ADCE54DB-8B91-4727-866C-060724C9393C}|VendasWebMvc\\VendasWebMvc.csproj|solutionrelative:vendaswebmvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -114,7 +138,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -126,20 +150,72 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\VendasWebMvc\\VendasWebMvc\\Views\\Vendedores\\Create.cshtml",
-              "RelativeDocumentMoniker": "VendasWebMvc\\Views\\Vendedores\\Create.cshtml",
-              "ToolTip": "C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\VendasWebMvc\\VendasWebMvc\\Views\\Vendedores\\Create.cshtml",
-              "RelativeToolTip": "VendasWebMvc\\Views\\Vendedores\\Create.cshtml",
-              "ViewState": "AQIAAB8AAAAAAAAAAADwvywAAAAAAAAA",
+              "DocumentIndex": 0,
+              "Title": "GroupingSearch.cshtml",
+              "DocumentMoniker": "C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\VendasWebMvc\\VendasWebMvc\\Views\\RegistroVendas\\GroupingSearch.cshtml",
+              "RelativeDocumentMoniker": "VendasWebMvc\\Views\\RegistroVendas\\GroupingSearch.cshtml",
+              "ToolTip": "C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\VendasWebMvc\\VendasWebMvc\\Views\\RegistroVendas\\GroupingSearch.cshtml",
+              "RelativeToolTip": "VendasWebMvc\\Views\\RegistroVendas\\GroupingSearch.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-14T01:06:25.587Z",
+              "WhenOpened": "2024-06-22T00:54:05.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SimpleSearch.cshtml",
+              "DocumentMoniker": "C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\VendasWebMvc\\VendasWebMvc\\Views\\RegistroVendas\\SimpleSearch.cshtml",
+              "RelativeDocumentMoniker": "VendasWebMvc\\Views\\RegistroVendas\\SimpleSearch.cshtml",
+              "ToolTip": "C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\VendasWebMvc\\VendasWebMvc\\Views\\RegistroVendas\\SimpleSearch.cshtml",
+              "RelativeToolTip": "VendasWebMvc\\Views\\RegistroVendas\\SimpleSearch.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-22T00:53:44.872Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\VendasWebMvc\\VendasWebMvc\\Views\\RegistroVendas\\Index.cshtml",
+              "RelativeDocumentMoniker": "VendasWebMvc\\Views\\RegistroVendas\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\VendasWebMvc\\VendasWebMvc\\Views\\RegistroVendas\\Index.cshtml",
+              "RelativeToolTip": "VendasWebMvc\\Views\\RegistroVendas\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-22T00:49:14.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegistroVendasController.cs",
+              "DocumentMoniker": "C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\VendasWebMvc\\VendasWebMvc\\Controllers\\RegistroVendasController.cs",
+              "RelativeDocumentMoniker": "VendasWebMvc\\Controllers\\RegistroVendasController.cs",
+              "ToolTip": "C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\VendasWebMvc\\VendasWebMvc\\Controllers\\RegistroVendasController.cs",
+              "RelativeToolTip": "VendasWebMvc\\Controllers\\RegistroVendasController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T00:47:21.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RegistroVenda.cs",
+              "DocumentMoniker": "C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\VendasWebMvc\\VendasWebMvc\\Models\\RegistroVenda.cs",
+              "RelativeDocumentMoniker": "VendasWebMvc\\Models\\RegistroVenda.cs",
+              "ToolTip": "C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\VendasWebMvc\\VendasWebMvc\\Models\\RegistroVenda.cs",
+              "RelativeToolTip": "VendasWebMvc\\Models\\RegistroVenda.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T00:46:40.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\VendasWebMvc\\VendasWebMvc\\Views\\Vendedores\\Index.cshtml",
               "RelativeDocumentMoniker": "VendasWebMvc\\Views\\Vendedores\\Index.cshtml",
@@ -147,112 +223,23 @@
               "RelativeToolTip": "VendasWebMvc\\Views\\Vendedores\\Index.cshtml",
               "ViewState": "AQIAACEAAAAAAAAAAAAAADEAAABOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-14T00:03:00.328Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-14T00:03:00.328Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\VendasWebMvc\\VendasWebMvc\\Program.cs",
-              "RelativeDocumentMoniker": "VendasWebMvc\\Program.cs",
-              "ToolTip": "C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\VendasWebMvc\\VendasWebMvc\\Program.cs",
-              "RelativeToolTip": "VendasWebMvc\\Program.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAADwvx0AAAAwAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-13T23:51:08.194Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Vendedor.cs",
-              "DocumentMoniker": "C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\VendasWebMvc\\VendasWebMvc\\Models\\Vendedor.cs",
-              "RelativeDocumentMoniker": "VendasWebMvc\\Models\\Vendedor.cs",
-              "ToolTip": "C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\VendasWebMvc\\VendasWebMvc\\Models\\Vendedor.cs",
-              "RelativeToolTip": "VendasWebMvc\\Models\\Vendedor.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAYwBIAAABUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-14T00:09:21.869Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\VendasWebMvc\\VendasWebMvc\\Views\\Vendedores\\Edit.cshtml",
-              "RelativeDocumentMoniker": "VendasWebMvc\\Views\\Vendedores\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\VendasWebMvc\\VendasWebMvc\\Views\\Vendedores\\Edit.cshtml",
-              "RelativeToolTip": "VendasWebMvc\\Views\\Vendedores\\Edit.cshtml",
-              "ViewState": "AQIAABUAAAAAAAAAAADwvzAAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-14T22:52:40.485Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\VendasWebMvc\\VendasWebMvc\\Views\\Departamentoes\\Create.cshtml",
-              "RelativeDocumentMoniker": "VendasWebMvc\\Views\\Departamentoes\\Create.cshtml",
-              "ToolTip": "C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\VendasWebMvc\\VendasWebMvc\\Views\\Departamentoes\\Create.cshtml",
-              "RelativeToolTip": "VendasWebMvc\\Views\\Departamentoes\\Create.cshtml",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentMoniker": "C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\VendasWebMvc\\VendasWebMvc\\Views\\Vendedores\\Create.cshtml",
+              "RelativeDocumentMoniker": "VendasWebMvc\\Views\\Vendedores\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\VendasWebMvc\\VendasWebMvc\\Views\\Vendedores\\Create.cshtml",
+              "RelativeToolTip": "VendasWebMvc\\Views\\Vendedores\\Create.cshtml",
+              "ViewState": "AQIAABAAAAAAAAAAAADwvwsAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-14T22:53:03.054Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "VendedoresController.cs",
-              "DocumentMoniker": "C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\VendasWebMvc\\VendasWebMvc\\Controllers\\VendedoresController.cs",
-              "RelativeDocumentMoniker": "VendasWebMvc\\Controllers\\VendedoresController.cs",
-              "ToolTip": "C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\VendasWebMvc\\VendasWebMvc\\Controllers\\VendedoresController.cs",
-              "RelativeToolTip": "VendasWebMvc\\Controllers\\VendedoresController.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAYwCkAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-13T23:46:01.345Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\VendasWebMvc\\VendasWebMvc\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "VendasWebMvc\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\VendasWebMvc\\VendasWebMvc\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "VendasWebMvc\\Views\\_ViewImports.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-14T01:15:35.574Z"
+              "WhenOpened": "2024-06-14T01:06:25.587Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "VendedorService.cs",
-              "DocumentMoniker": "C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\VendasWebMvc\\VendasWebMvc\\Services\\VendedorService.cs",
-              "RelativeDocumentMoniker": "VendasWebMvc\\Services\\VendedorService.cs",
-              "ToolTip": "C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\VendasWebMvc\\VendasWebMvc\\Services\\VendedorService.cs",
-              "RelativeToolTip": "VendasWebMvc\\Services\\VendedorService.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAkwCAAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-13T23:47:30.007Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\VendasWebMvc\\VendasWebMvc\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "VendasWebMvc\\Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\VendasWebMvc\\VendasWebMvc\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "VendasWebMvc\\Models\\ErrorViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-18T22:59:50.211Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
               "Title": "Error.cshtml",
               "DocumentMoniker": "C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\VendasWebMvc\\VendasWebMvc\\Views\\Shared\\Error.cshtml",
               "RelativeDocumentMoniker": "VendasWebMvc\\Views\\Shared\\Error.cshtml",
@@ -264,7 +251,156 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\VendasWebMvc\\VendasWebMvc\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "VendasWebMvc\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\VendasWebMvc\\VendasWebMvc\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "VendasWebMvc\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACcAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-14T01:15:41.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "VendedorService.cs",
+              "DocumentMoniker": "C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\VendasWebMvc\\VendasWebMvc\\Services\\VendedorService.cs",
+              "RelativeDocumentMoniker": "VendasWebMvc\\Services\\VendedorService.cs",
+              "ToolTip": "C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\VendasWebMvc\\VendasWebMvc\\Services\\VendedorService.cs",
+              "RelativeToolTip": "VendasWebMvc\\Services\\VendedorService.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAgwCcAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T23:47:30.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Departamento.cs",
+              "DocumentMoniker": "C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\VendasWebMvc\\VendasWebMvc\\Models\\Departamento.cs",
+              "RelativeDocumentMoniker": "VendasWebMvc\\Models\\Departamento.cs",
+              "ToolTip": "C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\VendasWebMvc\\VendasWebMvc\\Models\\Departamento.cs",
+              "RelativeToolTip": "VendasWebMvc\\Models\\Departamento.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T19:52:23.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "VendedoresController.cs",
+              "DocumentMoniker": "C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\VendasWebMvc\\VendasWebMvc\\Controllers\\VendedoresController.cs",
+              "RelativeDocumentMoniker": "VendasWebMvc\\Controllers\\VendedoresController.cs",
+              "ToolTip": "C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\VendasWebMvc\\VendasWebMvc\\Controllers\\VendedoresController.cs",
+              "RelativeToolTip": "VendasWebMvc\\Controllers\\VendedoresController.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAowEgAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T23:46:01.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "IntegrityException.cs",
+              "DocumentMoniker": "C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\VendasWebMvc\\VendasWebMvc\\Services\\Exceptions\\IntegrityException.cs",
+              "RelativeDocumentMoniker": "VendasWebMvc\\Services\\Exceptions\\IntegrityException.cs",
+              "ToolTip": "C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\VendasWebMvc\\VendasWebMvc\\Services\\Exceptions\\IntegrityException.cs",
+              "RelativeToolTip": "VendasWebMvc\\Services\\Exceptions\\IntegrityException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T00:40:52.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DepartamentoService.cs",
+              "DocumentMoniker": "C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\VendasWebMvc\\VendasWebMvc\\Services\\DepartamentoService.cs",
+              "RelativeDocumentMoniker": "VendasWebMvc\\Services\\DepartamentoService.cs",
+              "ToolTip": "C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\VendasWebMvc\\VendasWebMvc\\Services\\DepartamentoService.cs",
+              "RelativeToolTip": "VendasWebMvc\\Services\\DepartamentoService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T23:31:30.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\VendasWebMvc\\VendasWebMvc\\Views\\Departamentoes\\Create.cshtml",
+              "RelativeDocumentMoniker": "VendasWebMvc\\Views\\Departamentoes\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\VendasWebMvc\\VendasWebMvc\\Views\\Departamentoes\\Create.cshtml",
+              "RelativeToolTip": "VendasWebMvc\\Views\\Departamentoes\\Create.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-14T22:53:03.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\VendasWebMvc\\VendasWebMvc\\Views\\Vendedores\\Edit.cshtml",
+              "RelativeDocumentMoniker": "VendasWebMvc\\Views\\Vendedores\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\VendasWebMvc\\VendasWebMvc\\Views\\Vendedores\\Edit.cshtml",
+              "RelativeToolTip": "VendasWebMvc\\Views\\Vendedores\\Edit.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAADwvzAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-14T22:52:40.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Vendedor.cs",
+              "DocumentMoniker": "C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\VendasWebMvc\\VendasWebMvc\\Models\\Vendedor.cs",
+              "RelativeDocumentMoniker": "VendasWebMvc\\Models\\Vendedor.cs",
+              "ToolTip": "C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\VendasWebMvc\\VendasWebMvc\\Models\\Vendedor.cs",
+              "RelativeToolTip": "VendasWebMvc\\Models\\Vendedor.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAYwBIAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T00:09:21.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\VendasWebMvc\\VendasWebMvc\\Program.cs",
+              "RelativeDocumentMoniker": "VendasWebMvc\\Program.cs",
+              "ToolTip": "C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\VendasWebMvc\\VendasWebMvc\\Program.cs",
+              "RelativeToolTip": "VendasWebMvc\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAADwvx0AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T23:51:08.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\VendasWebMvc\\VendasWebMvc\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "VendasWebMvc\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\VendasWebMvc\\VendasWebMvc\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "VendasWebMvc\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-14T01:15:35.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\VendasWebMvc\\VendasWebMvc\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "VendasWebMvc\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\VendasWebMvc\\VendasWebMvc\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "VendasWebMvc\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T22:59:50.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\VendasWebMvc\\VendasWebMvc\\Views\\Vendedores\\Delete.cshtml",
               "RelativeDocumentMoniker": "VendasWebMvc\\Views\\Vendedores\\Delete.cshtml",
@@ -276,7 +412,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 21,
               "Title": "NotFoundException.cs",
               "DocumentMoniker": "C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\VendasWebMvc\\VendasWebMvc\\Services\\Exceptions\\NotFoundException.cs",
               "RelativeDocumentMoniker": "VendasWebMvc\\Services\\Exceptions\\NotFoundException.cs",
@@ -288,7 +424,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 20,
               "Title": "DbConcurrencyException.cs",
               "DocumentMoniker": "C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\VendasWebMvc\\VendasWebMvc\\Services\\Exceptions\\DbConcurrencyException.cs",
               "RelativeDocumentMoniker": "VendasWebMvc\\Services\\Exceptions\\DbConcurrencyException.cs",
@@ -300,7 +436,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 22,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\VendasWebMvc\\VendasWebMvc\\Views\\Vendedores\\Details.cshtml",
               "RelativeDocumentMoniker": "VendasWebMvc\\Views\\Vendedores\\Details.cshtml",
@@ -312,19 +448,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "DepartamentoService.cs",
-              "DocumentMoniker": "C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\VendasWebMvc\\VendasWebMvc\\Services\\DepartamentoService.cs",
-              "RelativeDocumentMoniker": "VendasWebMvc\\Services\\DepartamentoService.cs",
-              "ToolTip": "C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\VendasWebMvc\\VendasWebMvc\\Services\\DepartamentoService.cs",
-              "RelativeToolTip": "VendasWebMvc\\Services\\DepartamentoService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-16T23:31:30.435Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 24,
               "Title": "VendedorFormViewModel.cs",
               "DocumentMoniker": "C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\VendasWebMvc\\VendasWebMvc\\Models\\ViewModels\\VendedorFormViewModel.cs",
               "RelativeDocumentMoniker": "VendasWebMvc\\Models\\ViewModels\\VendedorFormViewModel.cs",
@@ -336,7 +460,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 25,
               "Title": "DepartamentoesController.cs",
               "DocumentMoniker": "C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\VendasWebMvc\\VendasWebMvc\\Controllers\\DepartamentoesController.cs",
               "RelativeDocumentMoniker": "VendasWebMvc\\Controllers\\DepartamentoesController.cs",
@@ -348,7 +472,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 26,
               "Title": "20240614200518_v4.cs",
               "DocumentMoniker": "C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\VendasWebMvc\\VendasWebMvc\\Migrations\\20240614200518_v4.cs",
               "RelativeDocumentMoniker": "VendasWebMvc\\Migrations\\20240614200518_v4.cs",
@@ -360,7 +484,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 30,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\VendasWebMvc\\VendasWebMvc\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "VendasWebMvc\\Views\\_ViewStart.cshtml",
@@ -372,7 +496,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 28,
               "Title": "20240614195031_v3.cs",
               "DocumentMoniker": "C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\VendasWebMvc\\VendasWebMvc\\Migrations\\20240614195031_v3.cs",
               "RelativeDocumentMoniker": "VendasWebMvc\\Migrations\\20240614195031_v3.cs",
@@ -384,19 +508,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Departamento.cs",
-              "DocumentMoniker": "C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\VendasWebMvc\\VendasWebMvc\\Models\\Departamento.cs",
-              "RelativeDocumentMoniker": "VendasWebMvc\\Models\\Departamento.cs",
-              "ToolTip": "C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\VendasWebMvc\\VendasWebMvc\\Models\\Departamento.cs",
-              "RelativeToolTip": "VendasWebMvc\\Models\\Departamento.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAYwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-14T19:52:23.855Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 29,
               "Title": "VendasWebMvcContext.cs",
               "DocumentMoniker": "C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\VendasWebMvc\\VendasWebMvc\\Data\\VendasWebMvcContext.cs",
               "RelativeDocumentMoniker": "VendasWebMvc\\Data\\VendasWebMvcContext.cs",
@@ -408,7 +520,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 27,
               "Title": "20240613232809_v2.cs",
               "DocumentMoniker": "C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\VendasWebMvc\\VendasWebMvc\\Migrations\\20240613232809_v2.cs",
               "RelativeDocumentMoniker": "VendasWebMvc\\Migrations\\20240613232809_v2.cs",
@@ -420,19 +532,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\VendasWebMvc\\VendasWebMvc\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "VendasWebMvc\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\VendasWebMvc\\VendasWebMvc\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "VendasWebMvc\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-14T01:15:41.192Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 31,
               "Title": "VendasWebMvc",
               "DocumentMoniker": "C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\VendasWebMvc\\VendasWebMvc\\VendasWebMvc.csproj",
               "RelativeDocumentMoniker": "VendasWebMvc\\VendasWebMvc.csproj",
